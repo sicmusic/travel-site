@@ -1,0 +1,6 @@
+body{
+  color: #0000FF;
+  font-weight: bold;
+  -webkit-columns: 400px 2;
+          columns: 400px 2;
+}
