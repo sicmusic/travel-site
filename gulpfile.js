@@ -1,2 +1,2 @@
-var watch = require('./gulp/watch')
-var styles = require('./gulp/styles')
+var watch = require('./gulp/tasks/watch')
+var styles = require('./gulp/tasks/styles')
